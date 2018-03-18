@@ -1,0 +1,44 @@
+<resources>
+
+
+    <style name="SplashTitle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_40</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+
+    <style name="TextSmall" parent="TextAppearance.AppCompat.Small">
+    </style>
+
+    <style name="TextMedium" parent="TextAppearance.AppCompat.Medium">
+    </style>
+
+    <style name="TextBig" parent="TextAppearance.AppCompat.Large">
+    </style>
+
+    <style name="TextSmall.White" parent="TextSmall">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="TextMedium.White" parent="TextMedium">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="TextBig.White" parent="TextBig">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="TextSmall.Black" parent="TextSmall">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="TextMedium.Black" parent="TextMedium">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="TextBig.Black" parent="TextBig">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Retail Store</string>
+    <string name="store_name">Gotham\nStore</string>
+    <string name="toolbar_name">Gotham Store</string>
+    <string name="price">Price:</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="remove_from_cart">Remove</string>
+    <string name="shopping_cart_items">Shopping cart</string>
+    <string name="buy">Buy</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</string>
+    <string name="no_products">No products added</string>
+</resources>

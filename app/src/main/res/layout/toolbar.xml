@@ -1,0 +1,24 @@
+<android.support.v7.widget.Toolbar android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/colorPrimary"
+    style="@style/Base.Theme.AppCompat.Light.DarkActionBar"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/toolbar_name"
+        style="@style/TextMedium.White"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/shoppingCart"
+        android:layout_gravity="right|center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/margin10"
+        android:tint="@color/transp_white"
+        android:src="@drawable/shop_cart"/>
+
+</android.support.v7.widget.Toolbar>
